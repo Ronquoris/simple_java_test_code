@@ -42,7 +42,7 @@ public class Test {
             // Print the result for the Jenkins log
             System.out.println("hello this for test purpose only");
             System.out.println("Calculation: " + num1 + " " + operator + " " + num2);
-            System.out.println("Result: " + result);
+            System.out.println("Result: " + result)
 
         } catch (NumberFormatException e) {
             System.out.println("Error: Please provide valid numbers.");
